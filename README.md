@@ -27,7 +27,7 @@ En una lista donde todos los elementos aparecen dos veces excepto uno, encuentra
 ### 8. Búsqueda Binaria - Primer Ocurrencia:
 Implementa una búsqueda binaria que encuentre la **primera ocurrencia** de un elemento en una lista ordenada que puede contener duplicados.
 
-### 9. Búsqueda Lineal - Suma de Dos:
+### 9. Búsqueda Lineal - Suma de Dos: 
 Dada una lista de números y un **objetivo**, encuentra dos números en la lista que sumen el objetivo usando búsqueda lineal.
 
 ### 10. Búsqueda Binaria - Pico en Montaña:
